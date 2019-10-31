@@ -1,0 +1,296 @@
+{
+  "order": [
+    {
+      "id": 223,
+      "order_no": "20191031008",
+      "item_code": null,
+      "item_name": "蓝色天地盒",
+      "Boxing": 100,
+      "item_spec": "105*105*50",
+      "status": 2,
+      "qty": 10000,
+      "Email": "odearsales08@odear.hk",
+      "Contacts": "Jay",
+      "customer_name": "001",
+      "customer_phone": "13554734330",
+      "planStart_date": "1753-01-01T00:00:00",
+      "planFinish_date": "1753-01-01T00:00:00",
+      "actualStart_date": "1753-01-01T00:00:00",
+      "completed_date": "2019-10-31T15:44:00",
+      "creator": 51,
+      "create_date": "2019-10-31T15:44:00",
+      "updator": 0,
+      "TotalPrice": 2.679,
+      "update_date": "1753-01-01T00:00:00",
+      "exc_param1": null,
+      "exc_param2": null,
+      "exc_param3": null
+    }
+  ],
+  "bom": [
+    {
+      "id": 712,
+      "order_no": "20191031008",
+      "item_no": "97",
+      "qty": 875,
+      "parts_name": "盖面纸",
+      "kdNumber": 12,
+      "Opening": "正度",
+      "Wastage": 0.05,
+      "price": 0.22,
+      "ModuleId": 1,
+      "ModuleNumber": 4,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 2559.95
+    },
+    {
+      "id": 713,
+      "order_no": "20191031008",
+      "item_no": "97",
+      "qty": 1750,
+      "parts_name": "底面纸",
+      "kdNumber": 6,
+      "Opening": "正度",
+      "Wastage": 0.05,
+      "price": 0.44,
+      "ModuleId": 1,
+      "ModuleNumber": 3,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 4781.15
+    },
+    {
+      "id": 714,
+      "order_no": "20191031008",
+      "item_no": "97",
+      "qty": 150,
+      "parts_name": "顶卡",
+      "kdNumber": 70,
+      "Opening": "正度",
+      "Wastage": 0.05,
+      "price": 0.04,
+      "ModuleId": 1,
+      "ModuleNumber": 15,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 510.57
+    },
+    {
+      "id": 715,
+      "order_no": "20191031008",
+      "item_no": "98",
+      "qty": 438,
+      "parts_name": "上灰板",
+      "kdNumber": 24,
+      "Opening": "正度",
+      "Wastage": 0.05,
+      "price": 0.25,
+      "ModuleId": 1,
+      "ModuleNumber": 6,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 2774.48
+    },
+    {
+      "id": 716,
+      "order_no": "20191031008",
+      "item_no": "98",
+      "qty": 525,
+      "parts_name": "下灰板",
+      "kdNumber": 20,
+      "Opening": "正度",
+      "Wastage": 0.05,
+      "price": 0.3,
+      "ModuleId": 1,
+      "ModuleNumber": 5,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 3292.75
+    },
+    {
+      "id": 717,
+      "order_no": "20191031008",
+      "item_no": "99",
+      "qty": 97,
+      "parts_name": "绒布",
+      "kdNumber": 108,
+      "Opening": "一米",
+      "Wastage": 0.05,
+      "price": 0.16,
+      "ModuleId": 1,
+      "ModuleNumber": 10,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 1685.81
+    },
+    {
+      "id": 718,
+      "order_no": "20191031008",
+      "item_no": "100",
+      "qty": 150,
+      "parts_name": "内饰",
+      "kdNumber": 70,
+      "Opening": "大度",
+      "Wastage": 0.05,
+      "price": 0.07,
+      "ModuleId": 1,
+      "ModuleNumber": 15,
+      "ModulePrice": 1,
+      "ModuleunitPrice": 1,
+      "TotalPrice": 770.12
+    }
+  ],
+  "printing": [],
+  "Glues": [],
+  "beer": [
+    {
+      "id": 181,
+      "order_no": "20191031008",
+      "item_no": "713",
+      "TotalPrice": 267
+    },
+    {
+      "id": 182,
+      "order_no": "20191031008",
+      "item_no": "712",
+      "TotalPrice": 200.25
+    },
+    {
+      "id": 183,
+      "order_no": "20191031008",
+      "item_no": "714",
+      "TotalPrice": 120
+    },
+    {
+      "id": 184,
+      "order_no": "20191031008",
+      "item_no": "715",
+      "TotalPrice": 133.5
+    },
+    {
+      "id": 185,
+      "order_no": "20191031008",
+      "item_no": "716",
+      "TotalPrice": 160.2
+    },
+    {
+      "id": 186,
+      "order_no": "20191031008",
+      "item_no": "718",
+      "TotalPrice": 120
+    }
+  ],
+  "gilding": [
+    {
+      "id": 110,
+      "order_no": "20191031008",
+      "item_no": "712",
+      "TotalPrice": 200.25
+    }
+  ],
+  "convex": [],
+  "silk": [],
+  "groove": [
+    {
+      "id": 65,
+      "order_no": "20191031008",
+      "item_no": "2",
+      "TotalPrice": 1602
+    }
+  ],
+  "uv": [],
+  "rel_Router": [
+    {
+      "id": 119,
+      "order_id": 0,
+      "order_no": "20191031008",
+      "router_id": 42,
+      "router_code": null,
+      "TotalPrice": 2160
+    },
+    {
+      "id": 120,
+      "order_id": 0,
+      "order_no": "20191031008",
+      "router_id": 43,
+      "router_code": null,
+      "TotalPrice": 2490
+    },
+    {
+      "id": 121,
+      "order_id": 0,
+      "order_no": "20191031008",
+      "router_id": 22,
+      "router_code": null,
+      "TotalPrice": 1080
+    },
+    {
+      "id": 122,
+      "order_id": 0,
+      "order_no": "20191031008",
+      "router_id": 41,
+      "router_code": null,
+      "TotalPrice": 1080
+    }
+  ],
+  "carton": [
+    {
+      "id": 106,
+      "order_no": "20191031008",
+      "Carton_id": 1,
+      "qty": 100,
+      "TotalPrice": 800,
+      "BoxLength": 108,
+      "BoxWidth": 108,
+      "BoxHeight": 50,
+      "AttritionRate": 0.03,
+      "Price": 0.08,
+      "LongCartonSize": 560,
+      "CartonSizeWidth": 452,
+      "CartonHeight": 270,
+      "LongPlacement": 5,
+      "WidePlacing": 4,
+      "HighPlacement": 5,
+      "CartonType": 1
+    },
+    {
+      "id": 108,
+      "order_no": "20191031008",
+      "Carton_id": 1,
+      "qty": 100,
+      "TotalPrice": 800,
+      "BoxLength": 105,
+      "BoxWidth": 105,
+      "BoxHeight": 50,
+      "AttritionRate": 0.03,
+      "Price": 0.08,
+      "LongCartonSize": 560,
+      "CartonSizeWidth": 452,
+      "CartonHeight": 270,
+      "LongPlacement": 5,
+      "WidePlacing": 4,
+      "HighPlacement": 5,
+      "CartonType": 1
+    },
+    {
+      "id": 109,
+      "order_no": "20191031008",
+      "Carton_id": 1,
+      "qty": 100,
+      "TotalPrice": 800,
+      "BoxLength": 105,
+      "BoxWidth": 105,
+      "BoxHeight": 50,
+      "AttritionRate": 0.03,
+      "Price": 0.08,
+      "LongCartonSize": 560,
+      "CartonSizeWidth": 452,
+      "CartonHeight": 270,
+      "LongPlacement": 5,
+      "WidePlacing": 4,
+      "HighPlacement": 5,
+      "CartonType": 1
+    }
+  ]
+}
